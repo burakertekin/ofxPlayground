@@ -2,5 +2,5 @@
 .DS_Store
 
 # ignore debug files
-bin/
-*.app*
+*debug.app
+*debug.app.dSYM

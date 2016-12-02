@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.0.2, 2016-12-02T16:57:52. -->
+<!-- Written by QtCreator 4.0.2, 2016-12-02T17:46:40. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -217,7 +217,7 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qbs.RunConfiguration:face_substitution.qtc_Desktop__1f2d618d---Qbs.RC.NameSeparator---face_substitution</value>
     <value type="QString" key="Qbs.RunConfiguration.CommandLineArguments"></value>
     <value type="QString" key="Qbs.RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="Qbs.RunConfiguration.WorkingDirectory.default">/Users/burakertekin/openFrameworks/apps/face_substitution/bin/face_substitution_debug.app/Contents/MacOS</value>
+    <value type="QString" key="Qbs.RunConfiguration.WorkingDirectory.default">/Users/burakertekin/openFrameworks/apps/ofxPlayground/face_substitution/bin/face_substitution_debug.app/Contents/MacOS</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
