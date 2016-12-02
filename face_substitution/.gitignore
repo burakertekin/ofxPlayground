@@ -1,0 +1,6 @@
+# ignore mac stuff
+.DS_Store
+
+# ignore debug files
+bin/
+*.app*
