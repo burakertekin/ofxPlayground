@@ -4,3 +4,7 @@
 # ignore debug files
 *debug.app
 *debug.app.dSYM
+
+# ignore qbs.usr
+.qbs.user
+.qbs.usr
