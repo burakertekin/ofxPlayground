@@ -1,2 +1,0 @@
-# traject
-edge detection stuff

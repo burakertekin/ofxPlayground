@@ -1,2 +1,2 @@
 # ofxPlayground
-playground for my openframeworks apps
+playground for selective ofx apps

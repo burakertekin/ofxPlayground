@@ -6,5 +6,5 @@
 *debug.app.dSYM
 
 # ignore qbs.usr
-.qbs.user
-.qbs.usr
+*.qbs.user
+*.qbs.usr

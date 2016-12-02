@@ -17,8 +17,8 @@ bool start = false;
 void ofApp::setup(){
     bLearnBackground = false;
 
-    m_width = 800;
-    m_height = 600;
+    m_width = 1280;
+    m_height = 1024;
 
     vidGrabber.setVerbose(true);
     vidGrabber.initGrabber(m_width, m_height);
@@ -54,7 +54,7 @@ void ofApp::update(){
         */
 
         grayDiff.absDiff(grayBg, grayImage);
-        grayDiff.threshold(150);
+        grayDiff.threshold(50);
 
         //Canny edge detection
         Canny(grayDiff, edge, cannyParam1*2, cannyParam2*2, 3);
